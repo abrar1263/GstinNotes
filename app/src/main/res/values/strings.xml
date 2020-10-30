@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Gstin Notes</string>
+    <string name="perfect_enterprises">Perfect Enterprises</string>
+    <string name="search_company">Search Company</string>
+    <string name="powered_by_perfectsquare">Powered by PerfectSquare</string>
+    <string name="add_company">Add Company</string>
+    <string name="we_need_a_few_details_to_add_company">We need a Few Details to Add Company</string>
+    <string name="company_name">Company Name</string>
+    <string name="_27antpa29651zc">27ANTPA29651ZC</string>
+    <string name="mobile_no">Mobile NO</string>
+    <string name="_7045">7045*****</string>
+    <string name="email">Email</string>
+    <string name="someone_example_com">someone@example.com</string>
+    <string name="enter_complete_address">Enter complete Address</string>
+    <string name="submit">SUBMIT</string>
+    <string name="gstin">GSTIN</string>
+    <string name="contact_person">Contact Person</string>
+    <string name="john">John</string>
+    <string name="address">Address</string>
+    <string name="company_type">Company Type</string>
+    <string name="select_state">Select State</string>
+    <string name="type">Type</string>
+
+    <string-array name="Company_type">
+        <item>Seller</item>
+        <item>Vendor</item>
+    </string-array>
+
+    <string-array name="state_list">
+        <item>01-Jammu and Kashmir</item>
+        <item>02-Himachal Pradesh</item>
+        <item>03-Punjab</item>
+        <item>04-Chandigarh</item>
+        <item>05-Uttarakhand</item>
+        <item>06-Haryana</item>
+        <item>07-Delhi</item>
+        <item>08-Rajasthan</item>
+        <item>09-Uttar Pradesh</item>
+        <item>10-Bihar</item>
+        <item>11-Sikkim</item>
+        <item>12-Arunachal Pradesh</item>
+        <item>13-Nagaland</item>
+        <item>14-Manipur</item>
+        <item>15-Mizoram</item>
+        <item>16-Tripura</item>
+        <item>17-Meghalaya</item>
+        <item>18-Assam</item>
+        <item>19-West Bengal</item>
+        <item>20-Jharkhand</item>
+        <item>21-Orissa</item>
+        <item>22-Chhattisgarh</item>
+        <item>23-Madhya Pradesh</item>
+        <item>24-Gujarat</item>
+        <item>25-Daman and Diu</item>
+        <item>26-Dadra and Nagar Haveli</item>
+        <item>27-Maharashtra</item>
+        <item>28-Andhra Pradesh (Old)</item>
+        <item>29-Karnataka</item>
+        <item>30-Goa</item>
+        <item>31-Lakshadweep</item>
+        <item>32-Kerala</item>
+        <item>33-Tamil Nadu</item>
+        <item>34-Puducherry</item>
+        <item>35-Andaman and Nicobar Islands</item>
+        <item>36-Telengana</item>
+        <item>37-Andhra Pradesh (New)</item>
+        <item>38-Ladakh</item>
+    </string-array>
+
+</resources>
